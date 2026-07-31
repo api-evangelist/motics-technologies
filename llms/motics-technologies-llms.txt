@@ -1,0 +1,122 @@
+# Motics
+> AI-powered healthcare automation platform providing AI agents for clinical documentation, billing, and patient communication for clinics, hospitals, and care homes in the UK.
+
+Motics uses AI Agents to automate administrative tasks for healthcare providers. Our mission is to help clinicians save 2+ hours per day on paperwork so they can focus on patient care. We serve NHS trusts, private clinics, hospitals, care homes, and telehealth providers across the United Kingdom.
+
+## Core Products
+
+### AI Agents
+- [Scribe Agent](https://www.motics.ai/agents/scribe/): Automated clinical notes, letters, discharge summaries, and referral letters. Real-time documentation that saves clinicians 2+ hours daily.
+- [Phone Agent](https://www.motics.ai/agents/phone/): 24/7 AI receptionist for appointment booking, patient calls, follow-ups, and out-of-hours triage. Reduces call burden by 90%.
+- [Audit Agent](https://www.motics.ai/agents/audit/): Clinic-wide documentation review that audits 100% of clinical notes for quality, compliance, and CQC readiness.
+- [Email Agent](https://www.motics.ai/agents/email/): Automated patient emails, follow-ups, and administrative communications with professional tone and timely responses.
+- [Billing Agent](https://www.motics.ai/agents/billing/): Automated insurance claims, pre-authorisation, revenue cycle management, and billing compliance.
+
+## Use Cases
+
+### For Hospitals
+- [AI Clinical Documentation](https://www.motics.ai/use-cases/ai-clinical-documentation/): Automated capture of ward rounds, emergency triage, and multidisciplinary team meetings
+- [Discharge Summaries](https://www.motics.ai/use-cases/discharge-summaries/): Automated discharge summary generation with medication reconciliation
+- [Referral Letters](https://www.motics.ai/use-cases/referral-letters/): Intelligent specialist referral letters with clinical history synthesis
+
+### For Clinics
+- [Automated Patient Notes](https://www.motics.ai/use-cases/automated-patient-notes/): Real-time consultation transcription and structured note generation
+- [Insurance Pre-Auth](https://www.motics.ai/use-cases/insurance-preauth/): Streamlined insurance pre-authorisation with status tracking
+- [Prescription Management](https://www.motics.ai/use-cases/prescription-management/): Intelligent prescription workflows with renewal management
+- [Patient Follow-up Calls](https://www.motics.ai/use-cases/patient-followup-calls/): Automated post-appointment check-ins with clinical escalation
+
+### For Care Homes
+- [Resident Care Documentation](https://www.motics.ai/use-cases/resident-care-documentation/): Daily care records, health monitoring, and incident reporting
+- [Medication Administration Records](https://www.motics.ai/use-cases/medication-administration/): Voice-activated MAR with safety checks and compliance support
+- [Family Communication](https://www.motics.ai/use-cases/family-updates/): Automated family updates and incident notifications
+
+### For Telehealth
+- [Virtual Consultation Recording](https://www.motics.ai/use-cases/virtual-consultation-recording/): Integration with Teams, Zoom for remote consultation documentation
+- [Out-of-Hours Triage](https://www.motics.ai/use-cases/out-of-hours-triage/): AI-assisted after-hours call handling with escalation pathways
+- [Remote Patient Monitoring](https://www.motics.ai/use-cases/remote-patient-monitoring/): Vital sign integration from wearables with trend analysis
+
+## Key Benefits
+- Save 2+ hours per clinician per day on administrative tasks
+- NHS, HCPC, GMC, and CQC compliant documentation
+- 30% reduction in administrative overhead
+- Faster insurance claims processing
+- Reduced documentation errors and improved patient safety
+- 90% reduction in receptionist call burden
+
+## Pricing
+- [Pricing Page](https://www.motics.ai/pricing/): Transparent pricing for healthcare AI automation
+- **Scribe Agent** (Individual/Team): £49/user/month (or £41/user/month billed annually)
+- **Phone Agent**: £0.40/minute for 24/7 AI receptionist
+- **Email Agent**: £29/user/month for automated patient communications
+- **Billing Agent**: Custom pricing for insurance claims automation
+- Enterprise Plan: Custom pricing with SLA guarantees, SAML/SCIM, and onboarding support
+- 7-day free trial available, no credit card required
+
+## Who Motics Works With
+- [Physiotherapists](https://www.motics.ai/for/physiotherapists/): 24/7 call answering booked into Cliniko or Nookal, notes drafted in-clinic, 100% documentation audit
+- [Podiatrists](https://www.motics.ai/for/podiatrists/): Out-of-hours enquiries converted into bookings, drafted notes and GP letters
+- [Osteopaths](https://www.motics.ai/for/osteopaths/): Calls answered while you treat, case histories drafted to GOsC-aligned standards
+- [Chiropractors](https://www.motics.ai/for/chiropractors/): Rebooking answered 24/7 to keep care plans on track, visit notes at volume
+- [Sports & MSK clinics](https://www.motics.ai/for/sports-msk-clinics/): Every line answered across sites, same-day bookings captured 24/7
+- [Private GPs](https://www.motics.ai/for/private-gps/): Instant answering with safe routing, drafted documentation, Meddbase integration
+- [Occupational health teams](https://www.motics.ai/for/occupational-health/): Manager-ready OH reports — standard, complex and DSE — drafted from assessments
+
+## Resources
+- [AI Tool Finder Quiz](https://www.motics.ai/quiz/): Six questions about your UK clinic — an honest recommendation on where to start with AI (phones, notes, audit or billing), free and instant
+- [Missed Call Cost Calculator](https://www.motics.ai/calculators/missed-call/): Free calculator showing what missed calls cost a UK clinic each year, and how much a 24/7 AI receptionist could recover
+- [ROI Calculator](https://www.motics.ai/calculators/roi/): Estimate the return on investment from Motics AI agents for your practice
+- [Clinic AI Glossary](https://www.motics.ai/glossary/): Plain-English definitions — AI receptionist, ambient scribe, DTAC, DSPT, Cyber Essentials, consent and capacity, missed-call rate, and more
+- [Buyer's Guides](https://www.motics.ai/guides/): Regularly updated comparisons of clinic AI tools — scribes, receptionists, triage, billing, and audit
+- [AI Receptionist vs Answering Service](https://www.motics.ai/guides/ai-receptionist-vs-answering-service-uk/): Message-taking bureaus vs AI receptionists for UK clinics — booking completion, availability and cost models
+- [AI Receptionist vs Virtual Assistant](https://www.motics.ai/guides/ai-receptionist-vs-virtual-assistant-uk/): Hourly human help vs always-on software — verified UK rates and the split of work that suits clinics
+- [AI Receptionist vs Hiring a Receptionist](https://www.motics.ai/guides/ai-receptionist-vs-hiring-receptionist-uk/): The true cost of a UK hire vs usage-priced software, and the presence-vs-coverage question
+- [Best AI Receptionists for UK Clinics](https://www.motics.ai/guides/best-ai-receptionists-uk-clinics/): Comparison of AI phone agents for UK clinics and practices
+- [Best AI Scribes for Physiotherapists UK](https://www.motics.ai/guides/best-ai-scribes-physiotherapy-uk/): Comparison of AI scribes for physiotherapy and allied health
+- [AI Tools for UK Private Practices](https://www.motics.ai/guides/ai-tools-uk-private-practices/): Category guide to clinic AI — reception, notes, triage, billing, audit
+- [Motics vs Heidi](https://www.motics.ai/guides/motics-vs-heidi/): Honest comparison of the two most-mentioned AI tools in UK private practice
+- [Heidi Alternatives UK](https://www.motics.ai/guides/heidi-alternatives-uk/): Five AI scribes compared as Heidi alternatives for UK clinics
+- [AI Scribe Cost UK](https://www.motics.ai/guides/ai-scribe-cost-uk/): Verified 2026 pricing and pricing models for AI scribes in the UK
+- [Clinical Documentation Audit](https://www.motics.ai/guides/clinical-documentation-audit-uk/): How UK clinics audit 100% of clinical notes — CQC and HCPC expectations
+- [AI Receptionist Cost UK](https://www.motics.ai/guides/ai-receptionist-cost-uk/): What UK clinics pay for AI receptionists — verified pricing and models
+- [AI Tools for Cliniko](https://www.motics.ai/guides/ai-tools-for-cliniko/): Every verified Cliniko AI integration — scribes, receptionists, billing
+- [AI Tools for Nookal](https://www.motics.ai/guides/ai-tools-for-nookal/): AI scribes and reception with verified Nookal integrations
+- [AI Tools for Meddbase](https://www.motics.ai/guides/ai-tools-for-meddbase/): AI options for Meddbase clinics — integrated scribe and reception
+- [AI Tools for Jane](https://www.motics.ai/guides/ai-tools-for-jane/): UK options for Jane clinics — Jane's own AI Scribe is US/Canada-only
+- [Clinic AI Compliance UK](https://www.motics.ai/guides/clinic-ai-compliance-uk/): GDPR, DTAC, DSPT, CQC, and patient consent (including capacity) for clinic AI
+- [AI Scribe vs Dictation](https://www.motics.ai/guides/ai-scribe-vs-dictation/): Ambient AI vs speech recognition vs human transcription for UK clinicians
+- [Blog](https://www.motics.ai/blog/): Healthcare AI insights, product updates, and industry news
+- [Contact](https://www.motics.ai/contact/): Request a demo or speak with our team
+- [Partners](https://www.motics.ai/partners/): Integration partners including Cliniko, Meddbase, Nookal
+
+## Company Information
+- **Company Name:** Motics (Motics Health)
+- **Website:** https://www.motics.ai
+- **Industry:** Healthcare Technology / Health-Tech / MedTech / AI Healthcare
+- **Focus Markets:** United Kingdom, NHS, Private Healthcare
+- **Compliance Standards:** NHS Digital, HCPC, GMC, CQC, GDPR
+- **Technology Partners:** Google Cloud, Microsoft Azure, NVIDIA, Deepgram
+
+## Frequently Asked Questions
+
+**What is Motics?**
+Motics is an AI-powered healthcare automation platform that provides AI agents for clinical documentation, billing, and patient communication. It helps clinics, hospitals, and care homes save time on administrative tasks.
+
+**How much time does Motics save?**
+Clinicians using Motics save an average of 2+ hours per day by automating clinical notes, letters, and documentation tasks.
+
+**Is Motics compliant with NHS standards?**
+Yes, Motics meets NHS Digital, HCPC, GMC, CQC, and GDPR compliance standards for clinical documentation in the UK.
+
+**What AI agents does Motics offer?**
+Motics offers five AI agents: Scribe Agent for automated clinical documentation (notes, letters, reports), Audit Agent for clinic-wide documentation review, Phone Agent for 24/7 patient call handling and appointment booking, Email Agent for automated patient communications, and Billing Agent for insurance claims and revenue cycle management.
+
+**How much does Motics cost?**
+Scribe Agent pricing starts at £49/user/month (or £41/user/month billed annually). Phone Agent is £0.40/minute. Email Agent is £29/user/month. Enterprise plans with custom pricing are available. All plans include a 7-day free trial.
+
+**Does Motics integrate with EHR/EMR systems?**
+Yes, Motics integrates with practice management systems including Cliniko, Meddbase, and Nookal, with more integrations available.
+
+## Optional
+- [Privacy Policy](https://www.motics.ai/privacy-policy/): Data protection and privacy information
+- [Terms & Conditions](https://www.motics.ai/terms/): Service terms and conditions
+- [Careers](https://www.motics.ai/careers/): Join the Motics team
