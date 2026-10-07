@@ -1,0 +1,87 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.motics.ai/pricing/
+sources:
+- https://www.motics.ai/pricing/
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Starter
+published: true
+note: Credit-based clinic AI plans; 1 credit = a Scribe note · 10 chats · 10 emails; phone calls 3 credits/minute.
+  Prices ex VAT, 15% annual saving.
+plan_count: 9
+currency: GBP
+plans:
+- name: Free
+  price_text: £ 0 /mo
+  price: 0
+  currency: GBP
+  period: month
+  unit: credits
+  included_quota: 25 credits a month · one user
+- name: Starter
+  price_text: £ 19 /mo
+  price: 19
+  currency: GBP
+  period: month
+  unit: credits
+  included_quota: 110 credits a month · one user
+- name: Team
+  price_text: £ 98 /mo
+  price: 98
+  currency: GBP
+  period: month
+  unit: credits
+  included_quota: 704 credits a month, shared · unlimited users
+  overage: anything past your pool is 14 p a credit
+- name: Scale
+  price_text: £ 290 /mo
+  price: 290
+  currency: GBP
+  period: month
+  unit: credits
+  included_quota: 2,640 credits a month, shared · unlimited users
+  overage: 13–19p per credit depending on plan
+- name: Enterprise
+  price_text: Custom
+  period: none
+  included_quota: A pool built for you
+- name: Scribe Boost
+  price_text: £ 70 /mo
+  price: 70
+  currency: GBP
+  period: month
+  unit: credits
+  included_quota: 500 Scribe & Chat credits ≈ 500 extra notes a month
+- name: Phone Boost
+  price_text: £ 105 /mo
+  price: 105
+  currency: GBP
+  period: month
+  unit: credits
+  included_quota: 750 Phone credits · 250 mins
+- name: Ops Boost
+  price_text: £ 210 /mo
+  price: 210
+  currency: GBP
+  period: month
+  unit: credits
+  included_quota: 1,500 Email & Billing credits
+- name: Audit Pack
+  price_text: from £ 79 /mo
+  price: 79
+  currency: GBP
+  period: month
+  unit: credits
+  included_quota: 100 Compliance credits · 500 notes audited
+rate_limit_statements:
+- Unused credits roll over, up to 10%.
