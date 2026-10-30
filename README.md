@@ -64,6 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Motics Technologies is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Motics Technologies (trading as Motics / Motics Health) is a UK-based healthcare AI automation platform providing AI agents for clinics, hospitals, and care homes. Its five agents — Scribe (clinical notes, letters, discharge summaries), Phone (24/7 AI receptionist and appointment booking), Email (patient communications and inbox triage), Billing (insurance claims and revenue cycle management), and Audit (clinic-wide documentation review for CQC/HCPC readiness) — help clinicians save 2+ hours per day on administrative work. Motics serves NHS trusts, private clinics, care homes, and telehealth providers, integrating with practice management systems including Cliniko, Meddbase, and Nookal, and states NHS Digital, HCPC, GMC, CQC, GDPR, and ISO 27001 compliance. The company is a Techstars portfolio company. No public developer API, SDK, or API reference is published at this time.
 
-Backed by: techstars — https://motics.co.uk/
+**Areas:** Company · Healthcare · Artificial Intelligence · AI Agents · Clinical Documentation · Health Tech · Medical · Automation · United Kingdom
+
+## Motics Technologies on APIs.io
+
+Everything profiled for Motics Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/motics-technologies/](https://apis.io/providers/motics-technologies/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Motics Technologies Domain Security](https://apis.io/security/motics-technologies/motics-technologies-domain-security/)
+- [Motics Technologies Trust Center](https://apis.io/security/motics-technologies/motics-technologies-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Motics Technologies Plans Pricing](https://apis.io/plans/motics-technologies/motics-technologies-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.motics.ai/)
+- [Pricing](https://www.motics.ai/pricing/)
+- [Sign up](https://app.motics.ai/sign-up)
+- [Support](https://intercom.help/motics)
+- [Blog](https://www.motics.ai/blog/)
+- [Compliance](https://www.motics.ai/security/)
+- [Terms of service](https://www.motics.ai/terms/)
+- [Privacy policy](https://www.motics.ai/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 25.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 92.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.0** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/motics-technologies/](https://apis.io/providers/motics-technologies/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Motics Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/motics-technologies/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
